@@ -1,4 +1,4 @@
-const Route = () => {
+const authContext = () => {
     return (
         <div>
             
@@ -6,4 +6,4 @@ const Route = () => {
     );
 };
 
-export default Route;
+export default authContext;
