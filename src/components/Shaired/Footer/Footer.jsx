@@ -27,7 +27,7 @@ const Footer = () => {
               </li>
               <li>
                 <FaPhone className="inline mr-2" />
-                +1 123 456 7890
+                +88 01981-592828
               </li>
               <li>
                 <FaEnvelope className="inline mr-2" />
